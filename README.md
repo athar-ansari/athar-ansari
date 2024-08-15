@@ -4,10 +4,16 @@
 <!--banner-->
   <img src="https://github.com/user-attachments/assets/8e296b7e-58f1-4f66-85d5-3a544b0c15ba">
   
----
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
+</p>
 
 <!--visit count-->
-  [![](https://visitcount.itsvg.in/api?id=athar-ansari&icon=2&color=1)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=athar-ansari&icon=2&color=1)]()
+  
+  <!--https://visitcount.itsvg.in-->
+  
 <br/>
      
 <!--Typing SVG-->
@@ -28,7 +34,9 @@ Exploring the dynamic world of tech as a passionate IT student, I’m driven by 
 <br/>
 
 
----
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
+</p>
 
 <!--Tech Stack-->
 <h2 align="center">💻 Tech Stack</h2>
@@ -41,7 +49,9 @@ Exploring the dynamic world of tech as a passionate IT student, I’m driven by 
 <br/>
 
 
----
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
+</p>
 
 <!--GitHub Stats-->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -55,7 +65,9 @@ Exploring the dynamic world of tech as a passionate IT student, I’m driven by 
 <br/>
 
 
---- 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
+</p>
 
 <!--GitHub Trophies-->
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -75,7 +87,9 @@ Exploring the dynamic world of tech as a passionate IT student, I’m driven by 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=athar-ansari&bg_color=transparent&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
----
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
+</p>
 
 <!--Random Dev Quote-->
 <h2 align="center">✍️ Random Dev Quote</h2>
@@ -86,7 +100,9 @@ Exploring the dynamic world of tech as a passionate IT student, I’m driven by 
 </div>
 
 
----
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
+</p>
 
 <!--Top Contributed Repo-->
 <h2 align="center">🔝 Top Contributed Repo</h2>
@@ -96,8 +112,10 @@ Exploring the dynamic world of tech as a passionate IT student, I’m driven by 
 ![](https://github-contributor-stats.vercel.app/api?username=athar-ansari&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
 
----
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
+</p>
+  
 <!--Socials-->
 <h2 align="center">🌐 Socials</h2>
 <div align="center" >
