@@ -152,7 +152,7 @@ I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience bui
 </p> -->
   
 <!--Socials-->
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 <div align="center" >
   
 [![Portfolio Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://mdathar.tech)
