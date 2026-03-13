@@ -107,14 +107,14 @@ I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience bui
 </p>
 
 <!--GitHub Trophies-->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Trophies</h2>
  
 <div align="center" >
   
 ![](https://github-profile-trophy.vercel.app/?username=athar-ansari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-<br/>
+<br/> -->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -140,7 +140,7 @@ I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience bui
 </p>
 
 <!--Top Contributed Repo-->
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<!-- <h2 align="center">🔝 Top Contributed Repo</h2>
 
 <div align="center" >
   
@@ -149,7 +149,7 @@ I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience bui
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
-</p>
+</p> -->
   
 <!--Socials-->
 <h2 align="center">🌐 Socials</h2>
