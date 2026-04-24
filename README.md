@@ -95,13 +95,13 @@ I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience bui
 
 <div align="center" >
   
-![](https://github-readme-stats.vercel.app/api?username=athar-ansari&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=athar-ansari&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 <br/>![](https://github-readme-streak-stats.herokuapp.com/?user=athar-ansari&theme=radical&hide_border=false)<br/>
 <br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=athar-ansari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 <br/>
 
-
+ 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
 </p>
