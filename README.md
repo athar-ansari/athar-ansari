@@ -155,7 +155,7 @@ I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience bui
 <h2 align="center">🤝 Connect With Me</h2>
 <div align="center" >
   
-[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://mdathar.tech)
+[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://mdathar.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athar8932@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdatharansari/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/athar__ansari) 
