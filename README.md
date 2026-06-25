@@ -34,7 +34,7 @@
 
 ### Full Stack Developer | MERN Stack Specialist
 
-I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience building scalable web applications using the MERN stack. I love solving real-world problems through clean, efficient code.
+I'm a passionate Full Stack Developer with 2+ years of hands-on experience building scalable web applications using the MERN stack. I love solving real-world problems through clean, efficient code.
 
  <p align="left">
   <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
