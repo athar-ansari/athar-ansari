@@ -28,13 +28,16 @@
 
 
 
- <div align="center" >
-   
-# Hi there, I'm Athar 👋
+ <div align="left" >
 
-### Full Stack Developer | MERN Stack Specialist
 
-I'm a passionate Full Stack Developer with 2+ years of hands-on experience building scalable web applications using the MERN stack. I love solving real-world problems through clean, efficient code.
+# Hi, I'm Athar 👋
+
+Software Engineer • Full Stack Developer • Exploring Gen AI
+
+I enjoy building modern web applications with React, Next.js, Node.js, and MongoDB.
+
+Currently exploring Generative AI, LLM Engineering, and scalable backend systems.
 
  <p align="left">
   <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
@@ -43,11 +46,10 @@ I'm a passionate Full Stack Developer with 2+ years of hands-on experience build
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **Full Stack Developer** at Step to Soft Pvt Ltd
-- 💻 Building production-ready applications with **React.js, Node.js, Express.js & MongoDB**
-- 🌱 Learning **Next.js, TypeScript** and exploring **System Design**
-- 👨‍💻 Completed a freelance project independently — from client acquisition to delivery
-- 💡 Passionate about writing clean, maintainable code and building user-centric applications
+- 💻 Building modern full-stack web applications
+- 🌱 Currently learning Gen AI, AI Agents & System Design
+- ⚡ Interested in scalable backend architecture
+- 🤝 Open to AI Engineer & Full Stack opportunities
  
 
 
@@ -71,6 +73,7 @@ I'm a passionate Full Stack Developer with 2+ years of hands-on experience build
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FASTAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
@@ -117,14 +120,14 @@ I'm a passionate Full Stack Developer with 2+ years of hands-on experience build
 <br/> -->
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!-- <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=athar-ansari&bg_color=transparent&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/bd324116-fee4-471f-85fd-4d22c3efe18f" width="1920" 
-</p>
+</p> -->
 
 <!--Random Dev Quote-->
 <h2 align="center">✍️ Random Dev Quote</h2>
